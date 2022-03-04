@@ -1,2 +1,2 @@
 # Bank-Fraud-Detection
-A model for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan. 
+ All the details and explanations is present in the Notebook (Fraud_Detection.ipynb)
